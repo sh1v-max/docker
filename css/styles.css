@@ -5,7 +5,7 @@ body{
 }
 .small-container .catagory{
   border-radius: 50px;
-  background: radial-gradient(white,#5A7CFB );
+  background: radial-gradient(white,#ff3abd);
 }
 .rev{
   text-align: left;
